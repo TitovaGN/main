@@ -54,4 +54,9 @@
 Контактная информация  
 Email: titovagn@list.ru
 
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/jncY6fkhNA1ONngg91/giphy.gif" width="300"/>
+</div>
+
+
 
